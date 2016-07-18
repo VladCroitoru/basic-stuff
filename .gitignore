@@ -1,0 +1,9 @@
+# xcode specific files
+*.pbxuser
+*.ext
+*.mode1v3
+*.perspectivev3
+xcuserdata/
+
+# OSX finder crap
+.DS_Store
